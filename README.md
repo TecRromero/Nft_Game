@@ -1,3 +1,67 @@
+ # Getting Started with  Windows 
+ We will be using VScode and remix.eth to code this project.
+...
+
+ # Download VScode 
+ // "https://code.visualstudio.com/"
+
+...
+
+ # Setup Vscode with Wsl 2
+ // "https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode"
+
+...
+
+## remix.eth 
+// "https://remix.ethereum.org/"
+ 
+ ...
+
+ # Install  node.js
+ // "https://nodejs.org/en/download/"
+
+ # Install yarn\
+// "https://classic.yarnpkg.com/en/docs/install#windows-stable"
+
+# Install Truffle 
+// "https://trufflesuite.com/docs/truffle/getting-started/installation"
+# Install Ganache 
+// "https://trufflesuite.com/ganache/"
+
+...
+
+### Open Windows Terminal
+ $ cd .\Desktop\
+$ mkdir Nft_Game
+$ cd .\NFt_Game\
+
+...
+
+### We will be making a React App 
+// "https://create-react-app.dev/docs/getting-started/"
+// Change name to project name example "Teddy_game"
+$ yarn create-react-app teddy_game
+cd teddy_game
+$yarn add redux 
+$yarn add redux-thunk
+$yarn add react-redux
+$yarn add web3
+$yarn add styled-components
+$yarn add @openzeppelin/contracts
+
+//Open browser go onto Github and create a new Repo once repo is create
+// Open Windows Terminal
+$ cd .\Desktop\NFt_Game\Teddy_game
+
+
+
+
+//Open new Windows Terminal
+
+ganache -d -allowUnlimitedContractSize
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

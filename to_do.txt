@@ -1,16 +1,22 @@
- For Windows user 
+ # Getting Started with  Windows 
  We will be using VScode and remix.eth to code this project.
+...
 
  # Download VScode 
  // "https://code.visualstudio.com/"
- 
+
+...
+
  # Setup Vscode with Wsl 2
  // "https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode"
 
-# remix.eth 
+...
+
+## remix.eth 
 // "https://remix.ethereum.org/"
  
- 
+ ...
+
  # Install  node.js
  // "https://nodejs.org/en/download/"
 
@@ -22,14 +28,17 @@
 # Install Ganache 
 // "https://trufflesuite.com/ganache/"
 
-// Open Windows Terminal
+...
+
+### Open Windows Terminal
  $ cd .\Desktop\
 $ mkdir Nft_Game
 $ cd .\NFt_Game\
 
-We will be making a React App 
-// "https://create-react-app.dev/docs/getting-started/"
+...
 
+### We will be making a React App 
+// "https://create-react-app.dev/docs/getting-started/"
 // Change name to project name example "Teddy_game"
 $ yarn create-react-app teddy_game
 cd teddy_game
